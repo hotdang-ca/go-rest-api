@@ -1,4 +1,4 @@
-# Rest Api
+# Go Rest Api
 
 ## What is this?
 Just a simple rest api example with Go.
