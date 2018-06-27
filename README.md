@@ -4,7 +4,7 @@
 Just a simple rest api example with Go.
 
 ## Why is this?
-Because I want to learn go. Geeze it's tricky.
+Because I want to learn Golang. Geeze it's tricky.
 
 ## How to Build
 Clone this repo. Perform a `go get`. Then, `go run main`. Base Http Port is 8000, you can change it if you want.
@@ -12,7 +12,7 @@ Clone this repo. Perform a `go get`. Then, `go run main`. Base Http Port is 8000
 ## How to Use?
 `GET /`: Version number
 
-`GET /people`: List in-memory slice of people
+`GET /people`: List SQLITE-stored People
 
 `GET /people/{id}`: List specific person
 
