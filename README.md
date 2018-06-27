@@ -12,7 +12,7 @@ Clone this repo. Perform a `go get`. Then, `go run main`. Base Http Port is 8000
 ## How to Use?
 `GET /`: Version number
 
-`GET /people`: List in-memory array of people
+`GET /people`: List in-memory slice of people
 
 `GET /people/{id}`: List specific person
 
